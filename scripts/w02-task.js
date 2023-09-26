@@ -32,10 +32,3 @@ foods.shift();
 foodElement.innerHTML += `<br>${foods}`;
 foods.pop();
 foodElement.innerHTML += `<br>${foods}`;
-
-
-
-
-
-
-
